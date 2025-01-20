@@ -1,0 +1,13 @@
+package in.xlendz.constants;
+
+public enum MethodResponse {
+  SUCCESS,
+  FAILURE,
+  USER_EXISTS,
+  LENDER_EXISTS,
+  KYC_SUBMITTED_SUCCESSFULLY,
+  PLEASE_UPDATE_ALL_DETAILS,
+  PLEASE_REVIEW_ALL_DETAILS
+
+
+}
